@@ -6,6 +6,6 @@ For anyone who needs to transfer money outside the country, unlike Googles curre
 
 ## Links
 
-[Live App](https://repl.it)
+[Live App](https://codepen.io/elimanni/pen/zYYXmGP)
 
 [Project Board](../../projects/1)
